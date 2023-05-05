@@ -1,0 +1,70 @@
+.photo {
+    height: 150px;
+    width: 150px;
+    padding: 0%;
+    margin: 0%;
+    float: left;
+    margin-right: 30px;
+}
+
+.main {
+    flex: 1;
+}
+
+h1 {
+    font-size: 2rem;
+    font-family: Playfair Display;
+}
+
+body {
+    font-family: Bruno Ace SC, Nunito Sans;
+    margin: 50px 50px 0 50px;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    min-height: 95vh;
+}
+
+.Image-one {
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-right: 15px;
+    padding: 0, 50px;
+}
+
+.Image-two {
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-right: 15px;
+    padding: 0, 50px;
+
+}
+
+.Image-three {
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-right: 15px;
+    padding: 0, 50px;
+
+}
+
+.Image-four {
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-right: 15px;
+    padding: 0, 0px;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+footer {
+    text-align: right;
+    color: midnightblue;
+}
